@@ -1,4 +1,4 @@
-# MongoScraper
-Web scraper written in JavaScript with Mongoose and Cheerio
+# News-Scraper
+Javascript News scraper with Mongoose and Cheerio
 
-Heroku (link)[https://ratopati-scraper.herokuapp.com/]
+Deployed on Heroku :  [News Scraper](https://ratopati-scraper.herokuapp.com/)
